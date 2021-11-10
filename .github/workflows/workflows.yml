@@ -1,12 +1,11 @@
 name: EslintCheck
 
 on:
-  push:
-    branches: 
-      - master
+  - push
 
 jobs:
-  Eslint:
+  build:
+
     runs-on: ubuntu-latest
 
     steps:
