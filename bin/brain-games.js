@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-import hello from "/Users/Elena/frontend-project-lvl1/src/cli.js";
+import hello from '../src/cli';
 
 console.log('Welcome to the Brain Games!');
 hello();
