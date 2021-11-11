@@ -1,5 +1,10 @@
 #!/usr/bin/env node
-import hello from '../src/cli';
+import hello from '../src/cli.js';
 
-console.log('Welcome to the Brain Games!');
-hello();
+const welcome = () => {
+  console.log('Welcome to the Brain Games!');
+  const userName = hello();
+  return userName;
+};
+
+export default welcome;
