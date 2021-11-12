@@ -1,18 +1,6 @@
 import readlineSync from 'readline-sync';
-
-const getRandomNumber = () => {
-  const max = 100;
-  const min = 0;
-  const randomNumber = Math.floor(Math.random() * (max - min + 1)) + min;
-
-  return randomNumber;
-};
-
-const welcome = () => {
-  const name = readlineSync.question('May I have your name?: ');
-  console.log(`Hello, ${name}`);
-  return name;
-};
+import welcome from '../src/greeting.js';
+import getRandomNumber from '../src/randomNumber.js';
 
 const even = () => {
   const userName = welcome();
