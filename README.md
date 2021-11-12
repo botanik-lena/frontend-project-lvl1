@@ -45,7 +45,7 @@ _**"Brain-games"**_ is a collection of 5 console mini-games aimed at testing and
 [![asciicast](https://asciinema.org/a/9DTqpgb6tTLqo5ATVzQjQqzkS.svg)](https://asciinema.org/a/9DTqpgb6tTLqo5ATVzQjQqzkS)
 
 #### Brain-progression
-[![asciicast](https://asciinema.org/a/zXjNblStHFqpSH38kdlF29BHQ.svg)](https://asciinema.org/a/zXjNblStHFqpSH38kdlF29BHQ)
+[![asciicast](https://asciinema.org/a/6CIslM9AwVVAthBPSQAofKv3v.svg)](https://asciinema.org/a/6CIslM9AwVVAthBPSQAofKv3v)
 
 #### Brain-prime
 [![asciicast](https://asciinema.org/a/09JSWCo2L8BwwIaPpZMxtwDIp.svg)](https://asciinema.org/a/09JSWCo2L8BwwIaPpZMxtwDIp)

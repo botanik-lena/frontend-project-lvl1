@@ -24,9 +24,10 @@ const progression = () => {
     const hiddenNumber = progressionArray[indexHiddenNumber];
 
     const arrayHiddenNumber = progressionArray.slice(0);
-    arrayHiddenNumber[indexHiddenNumber] = '. .';
+    arrayHiddenNumber[indexHiddenNumber] = '..';
+    const stringProgression = arrayHiddenNumber.join(' ');
 
-    console.log(`Question: ${arrayHiddenNumber}`);
+    console.log(`Question: ${stringProgression}`);
     const userAnswer = readlineSync.question('Your answer: ');
 
     if (hiddenNumber === Number(userAnswer)) {
