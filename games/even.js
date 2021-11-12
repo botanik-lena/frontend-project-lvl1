@@ -1,6 +1,7 @@
 import readlineSync from 'readline-sync';
 import welcome from '../src/greeting.js';
 import getRandomNumber from '../src/randomNumber.js';
+import isEven from '../src/isEven.js';
 
 const even = () => {
   const userName = welcome();
@@ -8,22 +9,18 @@ const even = () => {
   let isCorrect = true;
   let count = 0;
 
-  const isEven = (number) => {
-    const result = (number % 2) === 0 ? 'yes' : 'no';
-    return result;
-  };
-
   while (isCorrect) {
     const number = getRandomNumber();
     console.log(`Question: ${number}`);
     const userAnswer = readlineSync.question('Your answer: ');
+    const result = isEven(number);
 
-    if (isEven(number) === userAnswer) {
+    if (result === userAnswer) {
       count += 1;
       console.log('Correct!');
     } else {
       isCorrect = false;
-      console.log(`'${userAnswer}' is wrong answer ;(. Correct answer was '${isEven(number)}'.`);
+      console.log(`'${userAnswer}' is wrong answer ;(. Correct answer was '${result}'.`);
       console.log(`Let's try again, ${userName}!`);
       break;
     }
