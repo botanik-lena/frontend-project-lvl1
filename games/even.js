@@ -5,12 +5,12 @@ import isEven from '../src/isEven.js';
 
 const even = () => {
   const userName = welcome();
-  console.log('What is the result of the expression?');
+  console.log('Answer "yes" if the number is even, otherwise answer "no".');
   let isCorrect = true;
   let count = 0;
 
   while (isCorrect) {
-    const number = getRandomNumber();
+    const number = getRandomNumber(2, 100);
     console.log(`Question: ${number}`);
     const userAnswer = readlineSync.question('Your answer: ');
     const result = isEven(number);

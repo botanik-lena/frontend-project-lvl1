@@ -36,16 +36,16 @@ _**"Brain-games"**_ is a collection of 5 console mini-games aimed at testing and
 **Demonstration of the launch and the process of the game:**
 
 #### Brain-even
-[![asciicast](https://asciinema.org/a/Xn0I2rrS4jO3PN07bjAMpfZSU.svg)](https://asciinema.org/a/Xn0I2rrS4jO3PN07bjAMpfZSU)
+[![asciicast](https://asciinema.org/a/mBiRD97UxLS5k7CJvE3wJz7NP.svg)](https://asciinema.org/a/mBiRD97UxLS5k7CJvE3wJz7NP)
 
 #### Brain-calc
-[![asciicast](https://asciinema.org/a/277JdpEnIomMdFDC3NevdP8BQ.svg)](https://asciinema.org/a/277JdpEnIomMdFDC3NevdP8BQ)
+[![asciicast](https://asciinema.org/a/DOfFoCapjh6LnSSgm3nPTM185.svg)](https://asciinema.org/a/DOfFoCapjh6LnSSgm3nPTM185)
 
 #### Brain-gcd
-[![asciicast](https://asciinema.org/a/glEegfvofWwwpS25WrdvKjkMm.svg)](https://asciinema.org/a/glEegfvofWwwpS25WrdvKjkMm)
+[![asciicast](https://asciinema.org/a/9DTqpgb6tTLqo5ATVzQjQqzkS.svg)](https://asciinema.org/a/9DTqpgb6tTLqo5ATVzQjQqzkS)
 
 #### Brain-progression
-[![asciicast](https://asciinema.org/a/iKwjHRrBceJZfc86OuPb8zhHO.svg)](https://asciinema.org/a/iKwjHRrBceJZfc86OuPb8zhHO)
+[![asciicast](https://asciinema.org/a/zXjNblStHFqpSH38kdlF29BHQ.svg)](https://asciinema.org/a/zXjNblStHFqpSH38kdlF29BHQ)
 
 #### Brain-prime
-[![asciicast](https://asciinema.org/a/3LoGqugrDFY6xgc4dhZfgHheQ.svg)](https://asciinema.org/a/3LoGqugrDFY6xgc4dhZfgHheQ)
+[![asciicast](https://asciinema.org/a/09JSWCo2L8BwwIaPpZMxtwDIp.svg)](https://asciinema.org/a/09JSWCo2L8BwwIaPpZMxtwDIp)
