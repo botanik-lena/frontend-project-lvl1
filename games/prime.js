@@ -22,7 +22,7 @@ const prime = () => {
     } else {
       isCorrect = false;
       console.log(`'${userAnswer}' is wrong answer ;(. Correct answer was '${result}'.`);
-      console.log(`Let's try again, ${userName}`);
+      console.log(`Let's try again, ${userName}!`);
       break;
     }
 

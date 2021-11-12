@@ -4,7 +4,7 @@ import getRandomNumber from '../src/randomNumber.js';
 
 const even = () => {
   const userName = welcome();
-  console.log('Answer "yes" if the number is even, otherwise answer "no".');
+  console.log('What is the result of the expression?');
   let isCorrect = true;
   let count = 0;
 
@@ -24,7 +24,7 @@ const even = () => {
     } else {
       isCorrect = false;
       console.log(`'${userAnswer}' is wrong answer ;(. Correct answer was '${isEven(number)}'.`);
-      console.log(`Let's try again, ${userName}`);
+      console.log(`Let's try again, ${userName}!`);
       break;
     }
 
